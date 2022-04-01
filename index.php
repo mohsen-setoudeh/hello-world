@@ -9,11 +9,13 @@ $html_page=<<< ENDHTML
 		</head>
 
 		<body>
-		<h1>BINGO Start PHP Learning is do<h1>
+		<h1>BINGO Start PHP Learning is do</h1>
 
 		<form action="info.php" method="POST">
 		<input type="submit" name="submit" value="info"/>
 		</form>
+
+		<p><em>This is small php script</em></p>
 
 
 		</body>
