@@ -17,16 +17,16 @@ $html_page=<<< ENDHTML
 		<form action="info.php" method="POST">
 		<input type="submit" name="submit" value="info"/>
 		</form>
-<<<<<<< HEAD
+
 		<p>This is the first file in my new Git Repo</p>
 		<p>This line is here to show how merging works.</p>
-=======
+
 		<div>
 			<img src="lamp.png" alt="PHP logo">
 
 		</div>
 		
->>>>>>> images-add
+
 		<p><em>This is small php script</em></p>
 
 
