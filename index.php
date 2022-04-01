@@ -19,7 +19,7 @@ $html_page=<<< ENDHTML
 		</form>
 
 		<p>This is the first file in my new Git Repo</p>
-<h3>new branch in github</h3>
+		<h3>The new branch/h3>
 
 		<p><em>This is small php script</em></p>
 
