@@ -19,15 +19,7 @@ $html_page=<<< ENDHTML
 		</form>
 
 		<p>This is the first file in my new Git Repo</p>
-		<p>This line is here to show how merging works.</p>
-		<p>This line added in github online editor.</p>
-		<p>This line added for test PULL command ;-).</p>
-		<div>
-			<img src="lamp.png" alt="PHP logo">
-			<p>today is awsome</p>
-
-		</div>
-		
+<h3>new branch in github</h3>
 
 		<p><em>This is small php script</em></p>
 
