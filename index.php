@@ -14,7 +14,8 @@ $html_page=<<< ENDHTML
 		<form action="info.php" method="POST">
 		<input type="submit" name="submit" value="info"/>
 		</form>
-
+		<p>This is the first file in my new Git Repo</p>
+		<p>This line is here to show how merging works.</p>
 		<p><em>This is small php script</em></p>
 
 
