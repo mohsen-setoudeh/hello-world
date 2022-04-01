@@ -10,7 +10,10 @@ $html_page=<<< ENDHTML
 
 		<body>
 		<h1>BINGO Start PHP Learning is do</h1>
+		<div>
+			<img src="lamp.png" alt="PHP logo">
 
+		</div>
 		<form action="info.php" method="POST">
 		<input type="submit" name="submit" value="info"/>
 		</form>
