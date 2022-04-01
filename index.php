@@ -17,7 +17,11 @@ $html_page=<<< ENDHTML
 		<form action="info.php" method="POST">
 		<input type="submit" name="submit" value="info"/>
 		</form>
+		<div>
+			<img src="lamp.png" alt="PHP logo">
 
+		</div>
+		
 		<p><em>This is small php script</em></p>
 
 
